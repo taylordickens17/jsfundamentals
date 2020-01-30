@@ -5,7 +5,7 @@
         3. increment expression/ counter
 */
 //      (1)      (2)       (3)
-for (let i = 0; 1 < 10; i++) {
+for (let i = 0; i < 10; i++) {
   console.log(i);
 }
 

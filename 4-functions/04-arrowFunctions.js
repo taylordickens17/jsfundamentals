@@ -41,3 +41,15 @@ counting(20);
     - if there is a single parameter, you don't need the parenthesis ()
     - if you have multiple parameters, then you need parentheses ()
 */
+
+let count = number => {
+  for (let i = 0; i <= number; i++) {
+    if (i % 2 == 0) {
+      console.log(i, " the number is even.");
+    } else {
+      console.log(i, "the number is odd");
+    }
+  }
+};
+
+count(10);

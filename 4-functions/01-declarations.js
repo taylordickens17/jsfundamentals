@@ -1,5 +1,5 @@
 /*
-    - functions are a piece of code that perform a set of actions wehn called, or invoked
+    - functions are a piece of code that perform a set of actions when called, or invoked
 */
 
 hi();
